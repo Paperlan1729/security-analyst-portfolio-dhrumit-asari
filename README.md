@@ -36,7 +36,7 @@ This portfolio consolidates the complete set of work for the Security Analyst tr
 | Task | Title | Type | Repository |
 |------|-------|------|------------|
 | **9** | Advanced SQL Injection Exploitation | Practical | [security-analyst-task9-advanced-sqli](https://github.com/Paperlan1729/security-analyst-task9-advanced-sqli) |
-| **10** | Full Network Security Assessment Report | Practical + Report | [security-analyst-task10-full-assessment](https://github.com/Paperlan1729/security-analyst-task10-full-assessment) *(repo creation in progress / retry if rate-limited)* |
+| **10** | Full Network Security Assessment Report | Practical + Report | [security-analyst-task10-full-assessment](https://github.com/Paperlan1729/security-analyst-task10-full-assessment) |
 
 ---
 
@@ -51,6 +51,7 @@ This portfolio consolidates the complete set of work for the Security Analyst tr
 - **Task 7** — [nikto_scan_results.txt](https://github.com/Paperlan1729/security-analyst-task7-nikto-scanning/blob/main/nikto_scan_results.txt)
 - **Task 8** — [analysis_notes.md](https://github.com/Paperlan1729/security-analyst-task8-wireshark-capture/blob/main/analysis_notes.md)
 - **Task 9** — [advanced_sqli_notes.md](https://github.com/Paperlan1729/security-analyst-task9-advanced-sqli/blob/main/advanced_sqli_notes.md) + [sql_injection_exploit.sh](https://github.com/Paperlan1729/security-analyst-task9-advanced-sqli/blob/main/sql_injection_exploit.sh)
+- **Task 10** — [network_security_assessment.md](https://github.com/Paperlan1729/security-analyst-task10-full-assessment/blob/main/network_security_assessment.md)
 
 ---
 
